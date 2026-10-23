@@ -27,3 +27,16 @@ https://ayo993.github.io/lingxi-shenshuo-ui-demo/
 ![灵犀测评 UI 预览](preview.jpg)
 
 本仓库用于产品原型评审。灵犀形象与相关素材的权利归原权利人所有。
+
+
+## 仅申硕测评版 V1.6
+
+- 在线体验：https://ayo993.github.io/lingxi-shenshuo-ui-demo/assessment-only.html?screen=home&v=1.6
+- 加微页预览：https://ayo993.github.io/lingxi-shenshuo-ui-demo/assessment-only.html?screen=wechat&v=1.6
+- 本科在读、学位条件核对、报考规划等结果按 12 类规则匹配报告按钮，以及加微页主标题、副标题和二维码下方胶囊文案。
+- 加微页使用浅蓝插画背景与透明灵犀人物、叠层白色卡片、二维码装饰框和蓝色渐变胶囊。
+- 已完成测评的用户再次进入直接查看报告；报告时间右侧保留“再测一次”胶囊。
+- 保留“恢复未测评状态”工具，方便评审时重新测试。
+- assessment-only.html 为完整独立文件，已内嵌全部图片。下载该文件后可直接用浏览器打开，无需安装依赖。
+- 二维码为演示图片。正式小程序 AppID、路径、二维码及真实数据服务后续接入。
+- 原 index.html 与其他方案保留。
